@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 05:07:19 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDU6MDA6MDEgUE07MzEyNA=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDU6MDc6MTkgUE07MTszMjQ4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1" type="Integer" array="False" size=""/>
+            <declare name="n2" type="Integer" array="False" size=""/>
+            <output expression="&quot;wpisz pierwsz&#261; liczb&#281;&quot;" newline="True"/>
+            <input variable="n1"/>
+            <output expression="&quot;wpisz drug&#261; liczb&#281;&quot;" newline="True"/>
+            <input variable="n2"/>
+            <if expression="n1 = n2">
+                <then>
+                    <output expression="&quot;obie liczby s&#261; takie same&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="n1 &gt; n2">
+                        <then>
+                            <output expression="&quot;wi&#281;ksza liczba wynosi &quot; &amp; n1" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;wi&#281;ksza liczba wynosi &quot; &amp; n2" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

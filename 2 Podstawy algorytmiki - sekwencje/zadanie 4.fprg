@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:58:40 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDQ6MjY6MjAgUE07MzEzMg=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDQ6NTg6NDAgUE07MTszMjQ3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <declare name="d" type="Integer" array="False" size=""/>
+            <output expression="&quot;podaj pierwsz&#261; liczb&#281; ca&#322;kowit&#261;&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;podaj 2 liczb&#281;&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;podaj 3 liczb&#281;&quot;" newline="True"/>
+            <input variable="c"/>
+            <output expression="&quot;podaj 4 liczb&#281;&quot;" newline="True"/>
+            <input variable="d"/>
+            <declare name="n1" type="Integer" array="False" size=""/>
+            <declare name="n2" type="Integer" array="False" size=""/>
+            <declare name="y" type="Integer" array="False" size=""/>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <assign variable="n1" expression="a * d"/>
+            <assign variable="n2" expression="c * b"/>
+            <assign variable="y" expression="d * b"/>
+            <assign variable="x" expression="n1 + n2"/>
+            <if expression="y = 0">
+                <then>
+                    <output expression="&quot;y wynosi 0&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;x wynosi &quot; &amp; x" newline="True"/>
+                    <output expression="&quot;y wynosi &quot; &amp; y" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

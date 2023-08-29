@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 03:48:44 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDM6MTg6MjUgUE07MzEzNw=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDM6NDg6NDQgUE07MTszMjQ5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1" type="Integer" array="False" size=""/>
+            <declare name="n2" type="Integer" array="False" size=""/>
+            <declare name="n3" type="Integer" array="False" size=""/>
+            <declare name="suma" type="Integer" array="False" size=""/>
+            <declare name="odp" type="Integer" array="False" size=""/>
+            <input variable="n1"/>
+            <input variable="n2"/>
+            <input variable="n3"/>
+            <assign variable="suma" expression="n1 + n2 + n3"/>
+            <assign variable="odp" expression="suma / 3"/>
+            <output expression="&quot;&#346;rednia arytmetyczna z wprowadzonych liczb wynosi &quot; &amp; odp" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

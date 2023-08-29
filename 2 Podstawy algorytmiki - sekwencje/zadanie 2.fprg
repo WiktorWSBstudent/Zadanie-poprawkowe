@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-08 05:46:20 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDM6NTA6NTAgUE07MzEzMQ=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDg7MDU6NDY6MjAgUE07MzszMjUw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="P" type="Real" array="False" size=""/>
+            <declare name="O" type="Integer" array="False" size=""/>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <declare name="lp" type="Real" array="False" size=""/>
+            <assign variable="lp" expression="pi"/>
+            <output expression="&quot;podaj promie&#324; ko&#322;a&quot;" newline="True"/>
+            <input variable="r"/>
+            <assign variable="O" expression="2 * lp * r"/>
+            <output expression="&quot;Wpisz ile wynosi pole ko&#322;a kt&#243;rego obw&#243;d chcesz obliczy&#263;&quot;" newline="True"/>
+            <input variable="P"/>
+            <output expression="&quot;Obw&#243;d tego ko&#322;a wynosi &quot; &amp; O" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

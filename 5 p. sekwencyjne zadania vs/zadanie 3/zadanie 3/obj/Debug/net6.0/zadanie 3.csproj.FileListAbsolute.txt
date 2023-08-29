@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\bin\Debug\net6.0\zadanie 3.exe
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\bin\Debug\net6.0\zadanie 3.deps.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\bin\Debug\net6.0\zadanie 3.runtimeconfig.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\bin\Debug\net6.0\zadanie 3.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\bin\Debug\net6.0\zadanie 3.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\refint\zadanie 3.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\zadanie 3.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\5 p. sekwencyjne zadania vs\zadanie 3\zadanie 3\obj\Debug\net6.0\ref\zadanie 3.dll

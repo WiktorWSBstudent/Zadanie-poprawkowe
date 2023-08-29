@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-08 07:27:00 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDg7MDY6NTA6MjAgUE07MzEzNg=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDg7MDc6Mjc6MDAgUE07MjszMjQ4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Witaj w Programie Zaawansowany kalkulatorPL aby sprawnie korzysta&#263; z naszego serwisu zapoznaj si&#281; z komendami dzia&#322;a&#324;: dodawanie - 1 , odejmowanie - 2, mno&#380;enie - 3 oraz dzielenie - 4&quot;" newline="True"/>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="d" type="Integer" array="False" size=""/>
+            <declare name="Wynik" type="Integer" array="False" size=""/>
+            <output expression="&quot;podaj pierwsz&#261; liczb&#281;&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;podaj drug&#261; liczb&#281;&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;podaj numer dzia&#322;ania&quot;" newline="True"/>
+            <input variable="d"/>
+            <if expression="d=1">
+                <then>
+                    <assign variable="Wynik" expression="a+b"/>
+                    <output expression="&quot;Po dodaniu podanych liczb wychodzi &quot; &amp; Wynik" newline="True"/>
+                </then>
+                <else>
+                    <if expression="d=2">
+                        <then>
+                            <assign variable="Wynik" expression="a-b"/>
+                            <output expression="&quot;Po odj&#281;ciu od siebie podanych liczb wychodzi &quot; &amp;Wynik" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="d=3">
+                                <then>
+                                    <assign variable="Wynik" expression="a*b"/>
+                                    <output expression="&quot;Po pomno&#380;eniu podanych liczb wychodzi &quot; &amp;Wynik" newline="True"/>
+                                </then>
+                                <else>
+                                    <if expression="d=4">
+                                        <then>
+                                            <if expression="b=0">
+                                                <then>
+                                                    <output expression="&quot;Po podzieleniu podanych liczb wychodzi &quot; &amp; a &amp; &quot;/0&quot;" newline="True"/>
+                                                </then>
+                                                <else>
+                                                    <assign variable="Wynik" expression="a/b"/>
+                                                    <output expression="&quot;Po podzieleniu podanych liczb wychodzi &quot; &amp;Wynik" newline="True"/>
+                                                </else>
+                                            </if>
+                                        </then>
+                                        <else>
+                                            <output expression="&quot;nie wiem co mam zrobi&#263; z podanymi liczbami wi&#281;c wynik wynosi x&quot;" newline="True"/>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

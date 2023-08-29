@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\bin\Debug\net6.0\zadanie 5.exe
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\bin\Debug\net6.0\zadanie 5.deps.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\bin\Debug\net6.0\zadanie 5.runtimeconfig.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\bin\Debug\net6.0\zadanie 5.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\bin\Debug\net6.0\zadanie 5.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\refint\zadanie 5.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\zadanie 5.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\4 Podstawy algorytmiki vs\zadanie 5\zadanie 5\obj\Debug\net6.0\ref\zadanie 5.dll

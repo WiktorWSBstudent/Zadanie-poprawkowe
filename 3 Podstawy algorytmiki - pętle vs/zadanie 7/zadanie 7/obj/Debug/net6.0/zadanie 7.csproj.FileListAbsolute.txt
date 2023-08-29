@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\bin\Debug\net6.0\zadanie 7.exe
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\bin\Debug\net6.0\zadanie 7.deps.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\bin\Debug\net6.0\zadanie 7.runtimeconfig.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\bin\Debug\net6.0\zadanie 7.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\bin\Debug\net6.0\zadanie 7.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\refint\zadanie 7.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\zadanie 7.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\3 Podstawy algorytmiki - pętle (puste) vs\zadanie 7\zadanie 7\obj\Debug\net6.0\ref\zadanie 7.dll

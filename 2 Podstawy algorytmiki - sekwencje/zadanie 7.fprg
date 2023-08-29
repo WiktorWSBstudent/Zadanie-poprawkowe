@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-08 06:50:12 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDg7MDU6NTc6MzkgUE07MzE1Mg=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDg7MDY6NTA6MTIgUE07MTszMjQ1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <declare name="y" type="Integer" array="False" size=""/>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="0"/>
+            <assign variable="b" expression="0"/>
+            <output expression="&quot;Podaj wsp&#243;&#322;rz&#281;dn&#261; x punktu P&quot;" newline="True"/>
+            <input variable="x"/>
+            <output expression="&quot;Podaj wsp&#243;&#322;rz&#281;dn&#261; y punktu P&quot;" newline="True"/>
+            <input variable="y"/>
+            <output expression="&quot;Podaj promie&#324; ko&#322;a O&quot;" newline="True"/>
+            <input variable="r"/>
+            <declare name="P" type="Integer" array="False" size=""/>
+            <assign variable="P" expression="sqrt(x*x+y*y)"/>
+            <if expression="P&gt;r">
+                <then>
+                    <output expression="&quot;Punkt P nie le&#380;y w obr&#281;bie ko&#322;a&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Punkt P le&#380;y w obr&#281;bie ko&#322;a&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

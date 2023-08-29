@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Komputer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:21:09 PM"/>
+        <attribute name="created" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDQ6MDg6MjAgUE07MzEzMg=="/>
+        <attribute name="edited" value="S29tcHV0ZXI7REVTS1RPUC0zSkI1NThDOzIwMjMtMDYtMDM7MDQ6MjE6MDkgUE07MTszMjQy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="w" type="Integer" array="False" size=""/>
+            <declare name="h" type="Integer" array="False" size=""/>
+            <declare name="h2" type="Integer" array="False" size=""/>
+            <declare name="BMI" type="Integer" array="False" size=""/>
+            <output expression="&quot;podaj wag&#281; w kg&quot;" newline="True"/>
+            <input variable="w"/>
+            <output expression="&quot;podaj wzrost w m&quot;" newline="True"/>
+            <input variable="h"/>
+            <assign variable="h2" expression="h * h"/>
+            <assign variable="BMI" expression="w / h2"/>
+            <output expression="&quot;tw&#243;j BMI wynosi &quot; &amp; BMI" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

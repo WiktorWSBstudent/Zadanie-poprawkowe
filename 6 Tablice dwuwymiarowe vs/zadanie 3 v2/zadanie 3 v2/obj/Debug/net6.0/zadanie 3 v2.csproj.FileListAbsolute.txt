@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\bin\Debug\net6.0\zadanie 3 v2.exe
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\bin\Debug\net6.0\zadanie 3 v2.deps.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\bin\Debug\net6.0\zadanie 3 v2.runtimeconfig.json
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\bin\Debug\net6.0\zadanie 3 v2.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\bin\Debug\net6.0\zadanie 3 v2.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\refint\zadanie 3 v2.dll
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.pdb
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\zadanie 3 v2.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\wsb inf zadania vs\6 Tablice dwuwymiarowe vs\zadanie 3 v2\zadanie 3 v2\obj\Debug\net6.0\ref\zadanie 3 v2.dll
